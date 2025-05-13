@@ -1,0 +1,10 @@
+[2023-10-15 08:23:45] INFO: Usuário admin logado com sucesso IP=192.168.1.5
+[2023-10-15 08:25:12] WARNING: Múltiplas tentativas de login para usuário root IP=45.67.89.123
+[2023-10-15 08:30:45] ERROR: Tentativa de acesso não autorizado à pasta /etc/shadow IP=45.67.89.123
+[2023-10-15 09:15:22] INFO: Usuário analista logado com sucesso IP=192.168.1.10
+[2023-10-15 09:45:18] WARNING: Arquivo de configuração modificado por usuário admin
+[2023-10-15 10:12:33] INFO: Backup automático iniciado
+[2023-10-15 10:30:45] ERROR: Falha na conexão com servidor de backup IP=192.168.1.100
+[2023-10-15 11:05:22] INFO: Usuário analista desconectado
+[2023-10-15 11:45:18] WARNING: Múltiplas tentativas de login para usuário admin IP=45.67.89.123
+[2023-10-15 12:12:33] INFO: Firewall atualizado com novas regras

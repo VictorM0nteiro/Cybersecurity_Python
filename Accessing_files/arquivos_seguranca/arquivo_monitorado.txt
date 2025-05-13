@@ -1,0 +1,2 @@
+Conteúdo inicial do arquivo monitorado.
+Esta linha foi adicionada durante o monitoramento.

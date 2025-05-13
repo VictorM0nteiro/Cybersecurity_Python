@@ -1,0 +1,5 @@
+Primeira linha de texto.
+Segunda linha de texto.
+Terceira linha de texto.
+Esta linha foi adicionada posteriormente.
+Mais uma linha adicionada.

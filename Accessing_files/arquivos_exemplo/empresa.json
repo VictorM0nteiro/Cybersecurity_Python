@@ -1,0 +1,26 @@
+{
+    "empresa": "Seguran\u00e7a Digital Ltda",
+    "ano_fundacao": 2010,
+    "areas": [
+        "Ciberseguran\u00e7a",
+        "An\u00e1lise de Vulnerabilidades",
+        "Resposta a Incidentes"
+    ],
+    "funcionarios": [
+        {
+            "id": 1,
+            "nome": "Ana",
+            "departamento": "Seguran\u00e7a"
+        },
+        {
+            "id": 2,
+            "nome": "Carlos",
+            "departamento": "Desenvolvimento"
+        },
+        {
+            "id": 3,
+            "nome": "Maria",
+            "departamento": "An\u00e1lise"
+        }
+    ]
+}

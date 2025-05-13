@@ -1,0 +1,3 @@
+Estes são dados importantes que não devem ser modificados.
+Qualquer alteração neste arquivo deve ser detectada.
+Esta linha foi adicionada posteriormente!
