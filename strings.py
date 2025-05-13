@@ -59,3 +59,7 @@ print("Ha " * 3)  # Repeats string
 print("Line 1\nLine 2")  # New line
 print("Tab\tspace")      # Tab
 print("Quote: \"Hello\"") # Quotes
+
+
+ip_addresses = "192.168.140.81, 192.168.109.50, 192.168.243.140"
+index = ip_addresses.find("192.168.243.140")
