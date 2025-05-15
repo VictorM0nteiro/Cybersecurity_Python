@@ -148,7 +148,7 @@ def demonstracao_pdb():
     print("\nPara debugar este código com PDB, você poderia:")
     print("1. Adicionar 'import pdb; pdb.set_trace()' antes da linha problemática")
     print("2. Executar o script com 'python -m pdb 03_pdb_debugger.py'")
-    print("3. Usar o comando 'python -c "import 03_pdb_debugger; 03_pdb_debugger.calcular_estatisticas([1,2,'texto'])"'")
+    print("3. Usar o comando 'python -c \"import 03_pdb_debugger; 03_pdb_debugger.calcular_estatisticas([1,2,'texto'])\"'")
 
 # Exemplo de como você poderia usar o PDB em um caso real
 def exemplo_caso_real():
